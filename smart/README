@@ -1,0 +1,7 @@
+Here's a JSON document representing ~1800-triples that takes 7 seconds
+to normalize.  Lots of blank nodes :-)
+
+    $ node smart-test.js 
+    8 Nov 19:15:51 - Normalization time: 7021
+    8 Nov 19:15:51 - Framing time: 7189
+    8 Nov 19:15:51 - 1876 Triples time: 6585

@@ -1,0 +1,12 @@
+[
+
+   {
+
+     "@context": {
+      "sp": "http://smartplatforms.org/terms#"
+      },
+
+   "@type": "sp:LabResult"
+   }
+
+]
